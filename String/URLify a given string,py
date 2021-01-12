@@ -1,0 +1,4 @@
+for x in range(int(input())):
+    s1=list(input().split())
+    n=input()
+    print('%20'.join(s1))
